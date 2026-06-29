@@ -1,5 +1,5 @@
 %Lab Day 1 
-%NRZ- non back to zero method in line decoding
+%NRZ- non return to zero method in line decoding
 %This code is an example of NRZI (Inversion)
 
 bits = [1 0 1 1 1 0 0 1];
